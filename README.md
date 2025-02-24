@@ -1,22 +1,25 @@
 # The Kahoot Clone
 
+The project spans weeks 9 and 10 and concludes all websocket work.
 
-#### Remote repo for today's lesson: `https://github.com/uldahlalex/fs25_kahoot` 
+#### Remote repo on Github: `https://github.com/uldahlalex/fs25_kahoot` 
 
-### Agenda
+### Agenda, Wednesday 26th of February
 
-- 08:15: Presentation: Redis & More WebSocket Fun
+- 08:15: Presentation
+    - Redis,
+    - DB Brower for Redis
+    - Cloud-First configuration
 - 08:50: Short break
 - 09:00: Bigger assignment reveal: The Kahoot Clone
 
-### Topics:
+### Agenda, Friday 28th of February
 
-- Redis
-- Redis gui browser
-- Cloud-first development configuration (with multiple databases)
-- Deployment
-- NSwag typescript definition generator
-- more
+- 08:15: Presentation
+    - Deployment of WebSocket APIs
+    - Multi-DB applications
+    - Unit testing with real networking
+    - NSwag TS generator
 
 
 # The Kahoot Clone
