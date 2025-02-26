@@ -6,6 +6,7 @@ This project spans weeks 9 and 10 and concludes all websocket work.
 
 ### Agenda, Wednesday 26th of February (week 9)
 - 08:15: Presentation: Project reveeal: **The Kahoot Clone** & Relevant theory
+    - Presentation link: `https://docs.google.com/presentation/d/1Fjfp4FHT1ZtFiEs_8sQa-VAXPOTbuQE6pqkBbDV2aG8/edit?usp=sharing`
 
 ### Agenda, Friday 28th of February (week 9)
 - 08:15: Presentation
