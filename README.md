@@ -8,14 +8,33 @@ This project spans weeks 9 and 10 and concludes all websocket work.
 - 08:15: Presentation: Project reveeal: **The Kahoot Clone** & Relevant theory
     - Presentation link: `https://docs.google.com/presentation/d/1Fjfp4FHT1ZtFiEs_8sQa-VAXPOTbuQE6pqkBbDV2aG8/edit?usp=sharing`
 
-### Agenda, Friday 28th of February (week 9)
+### Agenda, 🎂Friday 28th of February🎂 (week 9)
 - 08:15: Presentation
     - Deployment of WebSocket APIs
-    - Multi-DB applications
     - Unit testing with real networking
     - NSwag TS generator
+    - Various configuration & template handout
+- 09:00: One of two of you will help me pick up and carry cake from Højvangs bakery next to the school
+- 09:15: We eat cake and program awesome kahoot clone
 
-*Week 10 do not have any presentations*
+### Starter template link: `https://github.com/uldahlalex/kahoot_template`
+
+#### Template the following:
+- README.md instructions to add environment variables / secrets
+- YML files to deploy client + server app + run tests
+- NSwag configuration to generate Typescript types based on your DTOs
+- WsClientProvider with appropriate URL based on development/production
+- Testing setup with real websocket networking client and usage example
+- IConnectionManager implementation
+- Entity Framework setup for the Kahoot schema
+- Options pattern configuration
+
+____
+
+### Agenda, week 10
+- There will be no presentations any of the days in week 10: Just pure workshop. I will of course be available for assistance.
+
+
 
 # The Kahoot Clone Assignment
 
@@ -47,4 +66,4 @@ The following Kahoot-like features must be implemented:
 
 When the project is finished, we will have project showcases.
 - Each group will host a kahoot quiz live in the classroom - where everyone else will be playing along (yes this means deployment)
-
+- The date for the release party will be Wednesday 12th. Just after the presentations we will begin the next major topic in Fullstack 2025 (same day).
