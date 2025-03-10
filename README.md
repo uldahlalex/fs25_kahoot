@@ -70,23 +70,6 @@ The following Kahoot-like features must be implemented:
 - You may build your own database schema from scratch or use the one I used in my demo: `https://gist.github.com/uldahlalex/dedc2736839d4f72a5f09aa1c5f6d1d0`
     - The ID's are all text (with no fancy auto-generate, so I recommend you just make GUID's in C# and cast .ToString() before saving)
 
-## Project showcases
+## Project wrap-up
 
-When the project is finished, we will have project showcases.
-- Each group will host a kahoot quiz live in the classroom - where everyone else will be playing along (yes this means deployment)
-- The date for the release party will be Wednesday 12th. Just after the presentations we will begin the next major topic in Fullstack 2025 (same day).
-
-Procedure for Kahoot clone showcases
-- Group gives the link to their application
-- Everyone joins in and answers the questions
-- We have fun
-
-### Questions regarding Kahoot clone showcases:
-
-**Q: Do we have to talk about the project / show code / etc?**
-
-A: No, you don't have to say or show anything (or even stand in front of the class - I can just distribute your application link, so we can play)
-
-**Q: Our clone is not functional / not deployed / etc**
-
-A: No worries - you may also show your UI / present a game round locally if you would like to.
+The format has recently been changed: Now I do a walkthrough of how to solve the exercise + you will have chance to share your solutions / implementation proposals.
